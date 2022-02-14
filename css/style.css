@@ -15,3 +15,33 @@ body{
     margin-top: 40px;
     margin-bottom: 10px;
 }
+
+/* titolo */
+
+main{
+    margin-left: 10px;
+}
+h1{
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.autore{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(128, 128, 128) ;
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(45, 174, 230); 
+}
+
+.data{
+    font-size: 15px;
+    color: rgb(128, 128, 128);
+    margin-top: 1px;
+}
