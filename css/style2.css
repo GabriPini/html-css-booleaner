@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(78, 160, 255);
+    background-size: 22%;
+}
+
+/* sfondo header */
+#site_header{
+    background-color: rgba(0, 0, 0, 0.479);
+    background-size: 22%;
+    text-align: center;
+}
+
+/* logo the booleaner */
+.site_top{
+    
+    width: auto;
+    height: 60px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+/* titolo */
+
+main{
+    background-color: rgba(255, 255, 255, 0.432);
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h1{
+    
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.autore{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(59, 59, 59) ;
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 0, 0); 
+}
+
+.data{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    margin-top: 1px;
+}
+
+/* foto tim */
+.tim{
+    height: 400px;
+    width: 45%;   
+}
+
+ul{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-left: 15px;
+}
+
+#table{
+  padding-left: 3px;
+  padding-right: 3px;
+
+} 
+ /* tavola */
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+thead{
+    background-color: rgb(32, 169, 229);
+    color: white;
+    text-align: left;
+
+}
+
+.tab{
+    background-color: rgb(177, 229, 242);
+}
+td{
+    height: 50px;
+    width: 50px;
+}
+ 
+/* imamgini finali */
+#site_footer{
+    width: 312px;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+footer{
+    
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 0.432);
+
+
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0) ;
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+
+.img_other{
+    text-align: center;
+    padding: 5px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    
+    
+}
+
+.img_other2{
+    text-align: center;
+     padding: 5px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    
+    ;
+}
