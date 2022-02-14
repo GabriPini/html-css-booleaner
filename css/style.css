@@ -22,9 +22,11 @@ main{
     margin-left: 10px;
 }
 h1{
+    
     font-size: 50px;
     margin-top: 20px;
     margin-bottom: 5px;
+    width: 100%;
 }
 
 .autore{
@@ -44,4 +46,10 @@ a{
     font-size: 15px;
     color: rgb(128, 128, 128);
     margin-top: 1px;
+}
+
+/* foto tim */
+.tim{
+    height: 500px;
+   
 }
